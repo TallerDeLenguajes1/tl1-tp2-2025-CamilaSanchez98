@@ -1,0 +1,6 @@
+2)
+f- No, no puedo ver el archivo tp2_1_2.c . Esto se debe a que el archivo fue cargado en la otra rama (rama Opcion_2) y actualmente nos encontramos parados en la rama main. La rama Opcion_2 tiene todo lo de la main pero la main no contiene lo de la rama Opcion_2.
+
+Tras  hacer lo solicitado, volver a la rama main, crear un nuevo txt y volver a usar el comando, noto que antes solo aparecia una rama (linea) con puntitos azules segun los commits hechos en ella y luego al crear una nueva, aparece una curva hacia la derecha que me representa la nueva rama, con un puntito azul que me indica el commit realizado desde ahi. El punto amarillo me avisa donde estoy parada y el rojo lo que aun no fue commiteado.
+
+Ahora, luego de hacer el merge, tanto la rama creada como la main convergen a un nuevo puntito que contiene el comentario del merge realizado.
